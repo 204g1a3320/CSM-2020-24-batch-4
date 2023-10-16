@@ -34,7 +34,7 @@ myservo.write(90); // sets the servo at 0 degree position
 // Print text on display
 lcd.begin(20, 4);  
 lcd.setCursor (0,1);
-lcd.print("    Smart Car   ");
+lcd.print("    Avanced Car   ");
 lcd.setCursor (0,2);
 lcd.print(" Parking System ");
 delay (2000);
